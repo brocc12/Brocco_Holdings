@@ -13,7 +13,7 @@ As part of their aviation venture, Anthony and Michael are seeking to address ke
 - **Stakeholder 3:** What are the seasonal trends in commercial aviation safety?
 
 ## Data Understanding and Analysis
-
+![Alt text](tableu_hbh.png)
 ### Source of Data
 
 The dataset 'aviation_data.csv' has been used for the analysis. It contains comprehensive airplane crash statistics.

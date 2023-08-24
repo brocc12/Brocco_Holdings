@@ -14,6 +14,9 @@ As part of their aviation venture, Anthony and Michael are seeking to address ke
 
 The dataset includes information about various aspects of airplane crashes, such as location, date, aircraft characteristics, and injuries. It provides valuable insights into aviation safety and performance.
 
+The shape of the dataset is 31 columns by 79899 rows
+![image](https://github.com/brocc12/dsc-phase-1-project-v3/assets/126965400/efa7cf35-c831-4204-9410-b0120b3a8305)
+
 ## Data Understanding and Analysis
 ![Alt text](tableu_hbh.png)
 

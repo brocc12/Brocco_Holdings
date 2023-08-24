@@ -27,6 +27,7 @@ https://public.tableau.com/app/profile/anthony.brocco/viz/HammerandBroccoHolding
 ### Source of Data
 
 The dataset 'aviation_data.csv' has been used for the analysis. It contains comprehensive airplane crash statistics.
+The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 

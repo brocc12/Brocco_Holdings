@@ -43,11 +43,11 @@ For more detailed information, refer to the analysis in the 'aviation_analysis.i
 
 As Anthony and Michael continue their journey into the aviation industry, there are several key next steps they plan to take:
 
-1. Deeper Analysis and Modeling
+#1. Deeper Analysis and Modeling
 
 While the initial analysis has provided valuable insights, the duo intends to delve deeper into the dataset. This involves exploring more complex relationships between variables and employing advanced machine learning techniques to build predictive models. By harnessing the power of data science, they aim to create models that can forecast potential safety concerns, aircraft performance, and even identify emerging trends.
 
-2. Collaboration with Industry Experts
+#2. Collaboration with Industry Experts
 
 Recognizing the complexity and depth of the aviation industry, Anthony and Michael intend to collaborate with industry experts, regulatory bodies, and aviation professionals. By leveraging their newfound resources and connections, they aim to gain a holistic understanding of the sector's challenges and opportunities. This collaborative approach will enable them to make informed decisions and align their ventures with industry best practices.
 
@@ -59,7 +59,7 @@ Anthony and Michael have always emphasized the importance of data-driven decisio
 
 The aviation industry is dynamic and ever-evolving. Anthony and Michael are committed to staying ahead of the curve by continuously learning about emerging technologies, regulatory changes, and industry advancements. They recognize that maintaining a growth mindset and adapting their strategies will be essential to long-term success.
 
-5. Sharing Insights with the Community
+#5. Sharing Insights with the Community
 
 As advocates for the power of data science, Anthony and Michael plan to share their insights, findings, and best practices with the broader community. This may involve contributing to industry publications, presenting at conferences, and hosting workshops. By fostering knowledge exchange, they aim to contribute positively to the aviation industry's growth and innovation.
 

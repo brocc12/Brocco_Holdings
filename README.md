@@ -45,7 +45,7 @@ As Anthony and Michael continue their journey into the aviation industry, there 
 
 #1. Deeper Analysis and Modeling
 
-While the initial analysis has provided valuable insights, the duo intends to delve deeper into the dataset. This involves exploring more complex relationships between variables and employing advanced machine learning techniques to build predictive models. By harnessing the power of data science, they aim to create models that can forecast potential safety concerns, aircraft performance, and even identify emerging trends.
+While the initial analysis has provided valuable insights, the duo intends to delve deeper into the dataset, and merging in more in depth models that give a broader range of data. Some examples include specificifying our fatalaties by state into a per capita metric. Concurrent data including prices of planes by make, model, age, and engine type.  This would involve exploring more complex relationships between variables and employing advanced machine learning techniques to build predictive models. By harnessing the power of data science, they aim to create models that can forecast potential safety concerns, aircraft performance, and even identify emerging trends.
 
 #2. Collaboration with Industry Experts
 

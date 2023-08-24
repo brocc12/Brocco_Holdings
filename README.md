@@ -17,19 +17,19 @@ The dataset includes information about various aspects of airplane crashes, such
 The shape of the dataset is 31 columns by 79899 rows
 ![image](https://github.com/brocc12/dsc-phase-1-project-v3/assets/126965400/efa7cf35-c831-4204-9410-b0120b3a8305)
 
-## Data Understanding and Analysis
-![Alt text](tableu_hbh.png)
-
-This graph includes visualazations such as crashes by year, crashes by month, crashes for different weather conditions as well as fatal crashes per state.
-
-https://public.tableau.com/app/profile/anthony.brocco/viz/HammerandBroccoHoldingsAviationReccomendations/Dashboard1?publish=yes
-
 ### Source of Data
 
 The dataset 'aviation_data.csv' has been used for the analysis. It contains comprehensive airplane crash statistics.
 The NTSB aviation accident database contains information from 1962 and later about civil aviation accidents and selected incidents within the United States, its territories and possessions, and in international waters.
 
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
+
+## Data Understanding and Analysis
+![Alt text](tableu_hbh.png)
+
+This graph includes visualazations such as crashes by year, crashes by month, crashes for different weather conditions as well as fatal crashes per state.
+
+https://public.tableau.com/app/profile/anthony.brocco/viz/HammerandBroccoHoldingsAviationReccomendations/Dashboard1?publish=yes
 
 ### Summary of Conclusions
 

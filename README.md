@@ -39,7 +39,7 @@ The analysis of the aviation dataset yielded three relevant findings:
 2. Newer Planes are Safer: Newer airplanes tend to have better safety records and performance metrics compared to older planes. Investing in modern aircraft might contribute to improved outcomes.
 3. Flying in Colder Months: Contrary to expectations, the analysis suggests that flying during colder months is associated with better safety records. Further investigation into the reasons behind this trend could be valuable.
 
-These insights will play a crucial role in Anthony and Michael's decision-making process as they expand their business into the aviation industry.
+These insights will play a crucial role in Anthony's decision-making process as they expand their business into the aviation industry.
 
 For more detailed information, refer to the analysis in the 'aviation_analysis.ipynb' notebook linked in this repository.
 
@@ -49,7 +49,7 @@ As continues their journey into the aviation industry, there are several key nex
 
 #1. Deeper Analysis and Modeling
 
-While the initial analysis has provided valuable insights, the duo intends to delve deeper into the dataset, and merging in more in depth models that give a broader range of data. Some examples include specificifying our fatalaties by state into a per capita metric. Concurrent data including prices of planes by make, model, age, and engine type.  This would involve exploring more complex relationships between variables and employing advanced machine learning techniques to build predictive models. By harnessing the power of data science, they aim to create models that can forecast potential safety concerns, aircraft performance, and even identify emerging trends.
+While the initial analysis has provided valuable insights, the intends to delve deeper into the dataset, and merging in more in depth models that give a broader range of data. Some examples include specificifying our fatalaties by state into a per capita metric. Concurrent data including prices of planes by make, model, age, and engine type.  This would involve exploring more complex relationships between variables and employing advanced machine learning techniques to build predictive models. By harnessing the power of data science, they aim to create models that can forecast potential safety concerns, aircraft performance, and even identify emerging trends.
 
 #2. Collaboration with Industry Experts
 

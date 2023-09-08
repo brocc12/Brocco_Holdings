@@ -25,11 +25,12 @@ The NTSB aviation accident database contains information from 1962 and later abo
 https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses
 
 ## Data Understanding and Analysis
-![Alt text](./images/tableu_hbh.png)
+![image](https://github.com/brocc12/Brocco_Holdings/assets/126965400/e973ba77-50e9-4780-9c16-f35aa5293ae2)
+
 
 This graph includes visualazations such as crashes by year, crashes by month, crashes for different weather conditions as well as fatal crashes per state.
 
-https://public.tableau.com/app/profile/anthony.brocco/viz/HammerandBroccoHoldingsAviationReccomendations/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/anthony.brocco/viz/BroccoHoldingsAviationReccomendations/Dashboard1?publish=yes
 
 ### Summary of Conclusions
 

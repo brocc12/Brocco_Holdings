@@ -1,10 +1,10 @@
-# Hammer and Brocco Holdings' Aviation Ventures
+#Brocco Holdings' Aviation Ventures
 
 ## Overview
 
-Anthony and Michael attended the Flatiron School Data Science bootcamp together in 2018. Both had a keen interest in business, so together they started a small betting company using statistics to bet on positive expected value markets. Recently, they hit it big, winning $500M in a Mega Million pot. They have decided to use this money to expand their business into aviation, which is Anthony's pet passion. They use a data-dependent approach to decide which projects to pursue and have started a commercial airplane leasing company.
+Anthony attended the Flatiron School Data Science bootcamp together in 2018. With a keen interest in business, they started a small betting company using statistics to bet on positive expected value markets. Recently, they hit it big, winning $500M in a Mega Million pot. They have decided to use this money to expand their business into aviation, which is Anthony's pet passion. They use a data-dependent approach to decide which projects to pursue and have started a commercial airplane leasing company.
 
-As part of their aviation venture, Anthony and Michael are seeking to address key business questions from stakeholders, including:
+As part of their aviation venture, Anthony is seeking to address key business questions from stakeholders, including:
 
 - **Stakeholder 1:** What factors contribute to the safety and reliability of commercial airplanes?
 - **Stakeholder 2:** How does the age of an airplane impact its performance and safety?
@@ -45,7 +45,7 @@ For more detailed information, refer to the analysis in the 'aviation_analysis.i
 
 ## Next Steps
 
-As Anthony and Michael continue their journey into the aviation industry, there are several key next steps they plan to take:
+As continues their journey into the aviation industry, there are several key next steps they plan to take:
 
 #1. Deeper Analysis and Modeling
 
@@ -53,21 +53,21 @@ While the initial analysis has provided valuable insights, the duo intends to de
 
 #2. Collaboration with Industry Experts
 
-Recognizing the complexity and depth of the aviation industry, Anthony and Michael intend to collaborate with industry experts, regulatory bodies, and aviation professionals. By leveraging their newfound resources and connections, they aim to gain a holistic understanding of the sector's challenges and opportunities. This collaborative approach will enable them to make informed decisions and align their ventures with industry best practices.
+Recognizing the complexity and depth of the aviation industry, Anthony intends to collaborate with industry experts, regulatory bodies, and aviation professionals. By leveraging their newfound resources and connections, they aim to gain a holistic understanding of the sector's challenges and opportunities. This collaborative approach will enable them to make informed decisions and align their ventures with industry best practices.
 
 #3. Implementing Data-Driven Business Strategies
 
-Anthony and Michael have always emphasized the importance of data-driven decision-making. They plan to apply this principle to every facet of their aviation ventures. By integrating data analytics into operations, maintenance, leasing strategies, and risk assessment, they hope to optimize their business processes and maximize returns on investments.
+Anthony has always emphasized the importance of data-driven decision-making. They plan to apply this principle to every facet of their aviation ventures. By integrating data analytics into operations, maintenance, leasing strategies, and risk assessment, they hope to optimize their business processes and maximize returns on investments.
 
 #4. Continuous Learning and Adaptation
 
-The aviation industry is dynamic and ever-evolving. Anthony and Michael are committed to staying ahead of the curve by continuously learning about emerging technologies, regulatory changes, and industry advancements. They recognize that maintaining a growth mindset and adapting their strategies will be essential to long-term success.
+The aviation industry is dynamic and ever-evolving. Anthony is committed to staying ahead of the curve by continuously learning about emerging technologies, regulatory changes, and industry advancements. They recognize that maintaining a growth mindset and adapting their strategies will be essential to long-term success.
 
 #5. Sharing Insights with the Community
 
-As advocates for the power of data science, Anthony and Michael plan to share their insights, findings, and best practices with the broader community. This may involve contributing to industry publications, presenting at conferences, and hosting workshops. By fostering knowledge exchange, they aim to contribute positively to the aviation industry's growth and innovation.
+As advocates for the power of data science, Anthony plans to share their insights, findings, and best practices with the broader community. This may involve contributing to industry publications, presenting at conferences, and hosting workshops. By fostering knowledge exchange, they aim to contribute positively to the aviation industry's growth and innovation.
 
-Anthony and Michael are excited about the future of their aviation ventures. With a strong foundation in data science and a passion for aviation, they are well-positioned to make meaningful contributions and thrive in this new venture.
+Anthony is excited about the future of their aviation ventures. With a strong foundation in data science and a passion for aviation, they are well-positioned to make meaningful contributions and thrive in this new venture.
 
 For more information on their analyses and progress, keep an eye on this repository and follow their journey on social media.
 
